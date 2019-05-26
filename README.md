@@ -1,4 +1,4 @@
-# Project-Pilihan-Kelompok3-web-berita-
+# Project-Pilihan-Kelompok3-web-berita
 17051204020, 17051204011, 17051204008
 
 # Web Berita Framework CI
