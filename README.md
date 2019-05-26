@@ -1,13 +1,11 @@
 # Project-Pilihan-Kelompok3-web-berita-
 17051204020, 17051204011, 17051204008
-#######################
-Web Berita Framework CI
-#######################
+
+#Web Berita Framework CI
 
 
-###################
-CodeIgniter Website
-###################
+
+#CodeIgniter Website
 
 This is the official informational website for the 
 `CodeIgniter project <https://github.com/bcit-ci/CodeIgniter/>`_.
